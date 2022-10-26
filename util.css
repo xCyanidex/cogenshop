@@ -1,0 +1,475 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+
+/*
+*****************************************************************************************************
+*****************fonts*****************************************************************
+******************************************************************************************************/
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-800 {
+    font-weight: 800;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-23 {
+    font-size: 23px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-36 {
+    font-size: 36px;
+}
+
+.fs-72 {
+    font-size: 72px;
+}
+
+.lh-normal {
+    line-height: normal;
+}
+
+.lh-15 {
+    line-height: 15px;
+}
+
+.lh-16 {
+    line-height: 16px;
+}
+
+.lh-17 {
+    line-height: 17px;
+}
+
+.lh-18 {
+    line-height: 18px;
+}
+
+.lh-20 {
+    line-height: 20px;
+}
+
+
+.lh-21 {
+    line-height: 21px;
+}
+
+.lh-23 {
+    line-height: 23px;
+}
+
+.lh-25 {
+    line-height: 25px;
+}
+
+.lh-26 {
+    line-height: 26px;
+}
+
+.lh-33 {
+    line-height: 33px;
+}
+
+.lh-34 {
+    line-height: 34px;
+}
+
+.lh-39 {
+    line-height: 39px;
+}
+
+.lh-40 {
+    line-height: 40px;
+}
+
+.lh-79 {
+    line-height: 79px;
+}
+
+.font-karla {
+    font-family: 'Karla', sans-serif;
+}
+
+.font-gotham {
+    font-family: 'Gotham', sans-serif;
+}
+
+
+.ls-none {
+    list-style: none;
+}
+
+.text-color-black {}
+
+.text-hover-blue:hover {
+    color: #52B4F9;
+    cursor: pointer;
+}
+
+.text-hover-blue-btn:hover {
+    color: #fff;
+    background-color: #52B4F9;
+    cursor: pointer;
+    border: none;
+}
+
+.f-white {
+    color: #ccc;
+}
+
+.f-blue {
+    color: #52b4f9;
+}
+
+.f-white-2 {
+    color: #FFFFFF;
+
+}
+
+.f-color-heading-2 {
+    color: #000000;
+}
+
+.f-color-heading-3 {
+    color: #444;
+}
+
+.f-color-heading {
+    color: #212121;
+}
+
+.f-color-price-light {
+    color: #696969;
+}
+
+.f-color-white-3 {
+    color: #CCCCCC;
+}
+
+.f-color-white-4 {
+    color: #858585;
+}
+
+.tac {
+    text-align: center;
+}
+
+.f-italic-karla {
+    font-family: 'Karla', sans-serif;
+    font-style: italic;
+}
+
+
+/*
+*****************************************************************************************************
+*****************margins*****************************************************************
+******************************************************************************************************/
+
+.mt-0-mrl-80 {
+    margin: 0 80px;
+}
+
+.mt-0-mrl-20 {
+    margin: 0 20px;
+}
+
+
+
+.mr-auto {
+    margin: auto;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+.mb--3 {
+    margin-bottom: -3px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.ml-60 {
+    margin-left: 60px;
+}
+
+.ml-85 {
+    margin-left: 85px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+/*
+*****************************************************************************************************
+*****************Paddings*****************************************************************
+******************************************************************************************************/
+
+
+
+.pd-l-r-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.p-l-15 {
+    padding-left: 15px;
+}
+
+.pd-t-b-5 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.padding-right-8 {
+    padding-right: 8px;
+}
+
+.padding-l-r-24 {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.padding-l-r-60 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.padding-t-b-12 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.padding-t-b-24 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.padding-t-b-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding-tb15-lr20 {
+    padding: 15px 20px;
+}
+
+.pd-l-r-156 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.p-l-20 {
+    padding-left: 20px;
+}
+
+.p-t-72 {
+    padding-top: 72px;
+}
+
+.p-l-0 {
+    padding-left: 0;
+}
+
+/*
+*****************************************************************************************************
+*****************Displays*****************************************************************
+******************************************************************************************************/
+
+
+.flex-col {
+    flex-direction: column;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.justify-sb {
+    justify-content: space-between;
+}
+
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.align-self-center {
+    align-self: center;
+}
+
+.fb-330 {
+    flex-basis: 330px;
+}
+
+.fb-140 {
+    flex-basis: 140px;
+}
+
+.fb-270 {
+    flex-basis: 270px;
+}
+
+/*
+*****************************************************************************************************
+*****************Max-width*****************************************************************
+******************************************************************************************************/
+.max-1200 {
+    max-width: 1200px;
+}
+
+.max-1150 {
+    max-width: 1150px;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.max-20 {
+    max-width: 20%;
+}
+
+.max-47 {
+    max-width: 47%;
+}
+
+.max-570 {
+    max-width: 570px;
+}
+
+.max-762 {
+    max-width: 762px;
+}
+
+.max-240 {
+    max-width: 240px;
+}
+
+
+
+/*
+*****************************************************************************************************
+*****************Positions*****************************************************************
+******************************************************************************************************/
+
+
+.pos-ab {
+    position: absolute;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+
+
+/*
+*****************************************************************************************************
+*****************Btn*****************************************************************
+******************************************************************************************************/
+
+
+.btn {}
+
+.box-shadow-1 {
+    box-shadow: 1px 1px 2px #e0e0e0;
+}
+
+.white-bg {
+    background-color: #ffffff;
+}
